@@ -1,7 +1,7 @@
 {
-    "name": "miniflux/picofeed",
+    "name": "koptelovav/picofeed",
     "description": "RSS/Atom parsing library (not maintained)",
-    "homepage": "https://github.com/miniflux/picoFeed",
+    "homepage": "https://github.com/koptelovav/picoFeed",
     "type": "library",
     "license": "MIT",
     "authors": [
